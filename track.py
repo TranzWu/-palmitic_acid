@@ -1,5 +1,6 @@
 #chunzhiwu
 #place holder info
+#test if the git remote works
 import numpy as np
 import matplotlib.pyplot as plt
 
